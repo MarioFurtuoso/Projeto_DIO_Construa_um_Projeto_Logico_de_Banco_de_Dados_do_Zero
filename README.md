@@ -1,6 +1,6 @@
 # Desafio - Projeto Lógico de Banco de Dados do Zero.
 
-![img](img/OIUFTH0.png)
+![img](img/oficina_mecanica_2.jpg)
 
 # Observações
 
